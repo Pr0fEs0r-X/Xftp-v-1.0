@@ -1,9 +1,6 @@
 # Xftp v 1.0
 
-<img width="327" height="159" alt="1xftp" src="https://github.com/user-attachments/assets/a589adc3-8e2f-4f95-92f2-84cb543936b8" />
-
-
-
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?logo=python&logoColor=white)
 
 
 <h1><b></b>Características • Instalación • Uso • Compilación</h1></b>
