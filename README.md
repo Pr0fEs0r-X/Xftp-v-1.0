@@ -1,4 +1,4 @@
-# Xftp v 1.0
+# Xftp v 1.2
 
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?logo=python&logoColor=white)
 
@@ -16,13 +16,15 @@ Este software fue diseñado y programado por:
 <b>✨ Características Principales</b>
 Interfaz de Usuario (GUI)
 
-    🎨 Tema Azul Claro Contrastante: Diseño visual moderno y limpio.
+    🎨 Tema OLive Edicion Contrastante: Diseño visual moderno y limpio.
     🖥️ Vista Dividida (Split View):
         Panel Izquierdo (Cliente): Explorador de archivos locales.
         Panel Derecho (Servidor): Listado de archivos remotos.
     🚀 Splash Screen Animado: Pantalla de carga con animaciones suaves y partículas.
     📋 Log en Tiempo Real: Registro de todas las operaciones, errores y estados.
     ⚠️ Mensajes Visuales: Los errores de conexión se muestran directamente en el panel del servidor.
+    
+  ## En la version 1.2 He añadido una clase OverwriteDialog personalizada que incluye un Checkbutton para la opción "Aplicar a todos".
 
 <br><h2>Funcionalidades FTP</h2>
 
