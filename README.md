@@ -1,4 +1,4 @@
-# Xftp v 1.2
+# Xftp v 1.2 New Update 05-03-2026
 
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?logo=python&logoColor=white)
 
@@ -24,7 +24,7 @@ Interfaz de Usuario (GUI)
     📋 Log en Tiempo Real: Registro de todas las operaciones, errores y estados.
     ⚠️ Mensajes Visuales: Los errores de conexión se muestran directamente en el panel del servidor.
     
-  ## En la version 1.2 He añadido una clase OverwriteDialog personalizada que incluye un Checkbutton para la opción "Aplicar a todos".
+  ## En la version 1.2 He añadido una clase OverwriteDialog personalizada que incluye un Checkbutton para la opción "Aplicar a todos" ya sea cuando subes algon archivo o descargas algun archivo.
 
 <br><h2>Funcionalidades FTP</h2>
 
