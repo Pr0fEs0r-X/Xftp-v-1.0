@@ -1,4 +1,4 @@
-# Xftp v 1.2 New Update 05-03-2026
+# Xftp v 1.2 
 
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?logo=python&logoColor=white)
 
