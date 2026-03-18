@@ -85,36 +85,28 @@ sudo apt-get install python3-tk
 # Fedora
 sudo dnf install python3-tkinter
 
-
-📦 Compilación a Ejecutable (Windows)
+## 📦 Compilación a Ejecutable (Windows)
 
 Para convertir el script en un archivo .exe portable: 
 
 pyinstaller --onefile --windowed --name "Xftp" xftp.py
 
 
-⚠️ Aviso de Seguridad
+## ⚠️ Aviso de Seguridad
 Las contraseñas se guardan en texto plano dentro del archivo JSON.
 Se recomienda precaución si se comparte la carpeta del programa o si se guardan contraseñas críticas. Esta funcionalidad está diseñada para comodidad en entornos de desarrollo o uso personal, no para almacenamiento de credenciales de alta seguridad.
 
+
+## 👤 Autor y Empresa
+
+Desarrollado con fines educativos y de seguridad informática.
+
+*   **Creador:** [Rodolfo Hernandez Baz ](https://www.rodolfohbaz.info/)
+*   **Desarrollador Principal:** [Pr0fEs0r-X](https://github.com/Pr0fEs0r-X) 
+*   **Compañía:** [Rhino Forensic & Reverse toolkit v 1.0 ](https://rhinosecurity.xyz/)
+
 ---
 
-📄 Licencia
 
-Este proyecto está licenciado bajo la **GNU General Public License v3.0.
-
-¿Qué significa esto?
-1.  Libertad de uso**: Puedes ejecutar el programa para cualquier propósito.
-2.  Libertad de estudio**: Tienes acceso al código fuente para estudiarlo y modificarlo.
-3.  Libertad de distribución**: Puedes redistribuir copias.
-4.  Copyleft**: Si modificas y distribuyes este software, debe ser bajo la misma licencia GNU GPL v3.0, manteniendo el crédito al autor original.
-
-Para más detalles, consulta el archivo `LICENSE` incluido o visita [gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html).
-
-
-
-Desarrollado con 💙 por BY Pr@FeSor X - Rodolfo Hernande Baz
-
-Software Libre para la comunidad.
-
+---
 
